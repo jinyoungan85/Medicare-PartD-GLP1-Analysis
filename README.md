@@ -18,7 +18,8 @@
 **Source:** 
 [CMS Medicare Part D Prescribers - by Geography and Drug](https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-geography-and-drug)
 
-[Data.gov Medicare Part D Prescribers - by Geography and Drug](https://catalog.data.gov/dataset/medicare-part-d-prescribers-by-geography-and-drug-d1df1) Alternative
+**Source (Alternative):** 
+[Data.gov Medicare Part D Prescribers - by Geography and Drug](https://catalog.data.gov/dataset/medicare-part-d-prescribers-by-geography-and-drug-d1df1)
 
 > **⚠️ Note on Data Access:**
 > Due to the large file size, the raw CSV files are **not included** in this repository. To run the notebook:
