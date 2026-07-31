@@ -1,4 +1,4 @@
-# Analysis of Medicare Part D Prescribing Trends for GLP-1 Agonists (2014-2023)
+# Medicare Part D Utilization and Cost Trends for GLP-1–Based Therapies (2014–2023)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Pandas](https://img.shields.io/badge/Library-Pandas-orange) ![Focus](https://img.shields.io/badge/Domain-Healthcare_Analytics-green)
 
