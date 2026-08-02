@@ -55,13 +55,13 @@ Raw annual CSV files are not included in this repository because of their size.
 The analysis uses an exact generic-name whitelist to retain the following single-agent therapies:
 
 - Albiglutide
-- Dulaglutide
-- Exenatide
+- Dulaglutide (Trulicity)
+- Exenatide (Byetta, Bydureon)
 - Exenatide extended release
-- Liraglutide
-- Lixisenatide
-- Semaglutide
-- Tirzepatide
+- Liraglutide (Saxenda, Victoza)
+- Lixisenatide (Adlyxin)
+- Semaglutide (Ozempic, Wegovy, Rybelsus)
+- Tirzepatide (Mounjaro, Zepbound)
 
 Exact matching was used instead of partial text searches to prevent insulin/GLP-1 combination products from entering the cohort.
 
