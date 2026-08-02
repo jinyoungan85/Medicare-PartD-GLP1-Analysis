@@ -13,7 +13,7 @@ A reproducible Python/Pandas workflow processes more than 1.2 million rows acros
 
 > **Scope note:** Tirzepatide is a dual GIP/GLP-1 receptor agonist and is included under the broader term **GLP-1–based therapies**. Insulin/GLP-1 combination products are excluded.
 
-[View the full Jupyter Notebook](./Medicare_PartD_GLP1_Utilization_and_Spending_Trend_2014_2024.ipynb)
+[View the full Jupyter Notebook](./Medicare_PartD_GLP1_Utilization_and_Spending_Trend.ipynb)
 
 ## 📊 Key Findings
 
