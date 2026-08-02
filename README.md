@@ -15,7 +15,7 @@ A reproducible Python/Pandas workflow processes more than 1.2 million rows acros
 
 [View the full Jupyter Notebook](./Medicare_PartD_GLP1_Utilization_and_Spending_Trend_2014_2024.ipynb)
 
-## Key Findings
+## 📊 Key Findings
 
 - **Semaglutide led both utilization and spending in 2024**, with approximately **16.6 million standardized 30-day fills** and **$15.2 billion in aggregate gross drug cost**.
 
@@ -173,7 +173,7 @@ From a healthcare-operations perspective, rapid utilization growth in high-cost 
 
 Weekly dosing may reduce administration burden and could support persistence or adherence for some patients. However, this dataset does not contain patient-level dispensing histories or enrollment periods and therefore cannot calculate proportion of days covered, treatment persistence, HEDIS adherence performance, or confirmed medication use.
 
-## Limitations
+## ⚠️ Limitations
 
 1. **Aggregated data:** The dataset is summarized by geography and drug rather than by patient. It cannot measure individual switching, persistence, adherence, outcomes, comorbidities, or treatment indication.
 
@@ -226,7 +226,7 @@ Medicare_PartD_GLP1_Utilization_and_Spending_Trend_2014_2024.ipynb
    - No insulin combination products remain
    - All included brands have a reviewed dosing-frequency mapping
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 .
@@ -235,7 +235,7 @@ Medicare_PartD_GLP1_Utilization_and_Spending_Trend_2014_2024.ipynb
 └── Raw Data CSV/        # Local only; excluded from GitHub
 ```
 
-## Tools and Skills Demonstrated
+## 🛠 Tools and Skills Demonstrated
 
 - Python
 - Pandas and NumPy
